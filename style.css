@@ -160,7 +160,7 @@ main {
     }
     .container {
         flex-direction: row;
-        width: 35%;
+        width: 45%;
     }
 
     .card-1 {
